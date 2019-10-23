@@ -1,4 +1,4 @@
-# Nathan Bussard https://nbussard.github.io/Telling-Stories-With-Data/
+# Nathan Bussard
 This is my public portfolio for data visualizations 
 
 # About-Me 
