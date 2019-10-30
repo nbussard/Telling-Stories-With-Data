@@ -8,3 +8,4 @@ I am a CMU Masters of Arts Management Canidate and a ceramicist. I graduate in D
 I hope to learn how to effectively present data to various audiences 
 
 # Portfolio
+[Data Visualization 2](/dataviz2.md)
