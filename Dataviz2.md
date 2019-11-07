@@ -12,3 +12,10 @@ I began my wireframe by thinking of how to elimiate unnecessary information. Thi
 
 ![IMG_8439](https://user-images.githubusercontent.com/56760044/68396617-d832d980-013f-11ea-9d29-2113243240c2.jpg) 
 
+# Critique
+
+My critiques were mainly positive. My original title involved the words "top 10" and I was encouraged to change that as it inferred to the normal ranking system of schools instead of just showing the amount of degrees awarded. They also said that the wording of my title was focus on the institutions as the subject when they thought it should be the amounf of degrees awarded. 
+
+# New Graph
+
+This graph is alot cleaner. It still shows how the Institute of Chicago drastically awards more degrees and also shows which sector is giving out more degrees. While it does, eliminate some of the sectors. This graph shows the difference beteen the top 10 and how from 1 to 10 there is a large drop. I also capped the y-axis. Even though Chicago is far abve 600, it wouldn't show the other schools in comparison well if it wasn't capped. Overall, I think this graph is a far better representation of information and could be expanded to show more institutuions if necesssary. 
