@@ -14,8 +14,10 @@ I began my wireframe by thinking of how to elimiate unnecessary information. Thi
 
 # Critique
 
-My critiques were mainly positive. My original title involved the words "top 10" and I was encouraged to change that as it inferred to the normal ranking system of schools instead of just showing the amount of degrees awarded. They also said that the wording of my title was focus on the institutions as the subject when they thought it should be the amounf of degrees awarded. 
+My critiques were mainly positive. My original title involved the words "top 10" and I was encouraged to change that as it inferred to the normal ranking system of schools instead of just showing the amount of degrees awarded. They also said that the wording of my title was focus on the institutions as the subject when they thought it should be the amounf of degrees awarded. Also they said it may be better to expand it to 20 so that it shows a little more of the information. Lastly, they said I should switch the x and y axis. 
 
 # New Graph
 
-This graph is alot cleaner. It still shows how the Institute of Chicago drastically awards more degrees and also shows which sector is giving out more degrees. While it does, eliminate some of the sectors. This graph shows the difference beteen the top 10 and how from 1 to 10 there is a large drop. I also capped the y-axis. Even though Chicago is far abve 600, it wouldn't show the other schools in comparison well if it wasn't capped. Overall, I think this graph is a far better representation of information and could be expanded to show more institutuions if necesssary. 
+This graph is alot cleaner. It still shows how the Institute of Chicago drastically awards more degrees and also shows which sector is giving out more degrees. While it does, eliminate some of the sectors. This graph shows the difference beteen the top 20 and how from 1 to 20 there is a large drop. I also capped the x-axis. Even though Chicago is far abve 600, it wouldn't show the other schools in comparison well if it wasn't capped. Overall, I think this graph is a far better representation of information and could be expanded to show more institutuions if necesssary. With the 20 you also begin to see how the distance between each school shrinks and begins to level out. Overall, it shows that many of the school awarding degrees are public 4 year institutions but the most is a private non- profi, which speaks to the elitism of the art world. 
+
+
