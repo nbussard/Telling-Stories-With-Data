@@ -1,6 +1,6 @@
 # Final Project 
 
-# How Equitable Have Art Higher Education Become?
+# How Equitable Has Art Higher Education Become?
 
 # Outline
 
