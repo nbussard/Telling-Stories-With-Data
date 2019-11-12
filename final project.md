@@ -52,5 +52,6 @@ I plan to take this data and use it in several ways. As the data has many years 
 
 By taking the most current data as a snap shot and then showing the change over time it will artuculate how effective the social innitiatives to create a mire equitable arts higher education environment as well as an arts industry have been. The data should show if the funnel of education is impactful on the changes of the industry and if education inititaitve needs to imporve and potentially how. While there are many others factors involved in this story such as admissions polcies, inclusion policies, the systemic issues involved in both education and the art world, my goals is to simply show is there has been any effect to the demographics from the initiatives and policies both parties have been focusing on, 
 
-Method and Medium 
+# Method and Medium 
+
 For this project, I plan on creating my story in Shorthand. I plan to simply a few graphs and make as little statements as possible in the 60 seconds. My graphs will be made  to show the imformation with as little words and reading as possibe. My goal for completing my project has a few stages. First, I will analyze the data and then begin to visualize it. After that I plan to draft my story. Then, I want to get feedback to make sure the story is understandable and that it portrays the information I thought it would. Lastly, I will make any changes and refine the story to make my final presentation and completed story. 
