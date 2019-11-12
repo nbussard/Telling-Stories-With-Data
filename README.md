@@ -11,3 +11,5 @@ I hope to learn how to effectively present data to various audiences
 [Data Visualization 1](/dataviz1.md)
 
 [Data Visualization 2](/Dataviz2.md)
+
+[Final Project Part 1](/finalproject.md)
