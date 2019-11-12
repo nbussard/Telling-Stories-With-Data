@@ -55,3 +55,4 @@ By taking the most current data as a snap shot and then showing the change over 
 # Method and Medium 
 
 For this project, I plan on creating my story in Shorthand. I plan to simply a few graphs and make as little statements as possible in the 60 seconds. My graphs will be made  to show the imformation with as little words and reading as possibe. My goal for completing my project has a few stages. First, I will analyze the data and then begin to visualize it. After that I plan to draft my story. Then, I want to get feedback to make sure the story is understandable and that it portrays the information I thought it would. Lastly, I will make any changes and refine the story to make my final presentation and completed story. 
+
