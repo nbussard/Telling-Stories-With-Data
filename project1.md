@@ -4,7 +4,7 @@
 
 # Outline
 
-This project will examine the current Arts Higher Education demographics of gender and race in relation to the current industry  demographics of gender and race between 2014 and 2017 to see if the trends in inclusion and equity are having impact and how it should impact the future.
+This project will examine the current Arts Higher Education demographics of gender and race in relation to the current industry  demographics of gender and race between 2014 and 2016 to see if the trends in inclusion and equity are having impact and how it should impact the future.
 
 The story arc with this will open with addressing the current industry and how the demographics have changed as well as been impacted by the education demographics. This drop to the past will then ask the question on how does the arts higher education demographics influence the industry and begin to rise as it shows the current education dempgrpahics and thier change over time. It climax by showing the education demographics in comparison to the industry. Lastly, it will end in a questioning call to action to how this aid in the growth of the industry and reach the a better equity than exists.
 
@@ -26,22 +26,26 @@ Commentary on the actual % change
 
 Now that you have seen the current industry, Look at education that is fueling the industry
 
-Graph 5/6 current state of gender in bachelors degree
-Graph 6/7 Current state of race in bachelors and master degree
+Graph 5 current state of gender in bachelors degree
+Graph 6 Current state of race in bachelors degree
 
 Commentary in similarty/difference from the current industry
 
-Graph 8/9 change in gender over the years in bachelor and master degree
-Graph 9/10 change in race over the years in bachelor and master degree
+Graph 7 change in gender over the years in bachelor and master degree
+Graph 8 change in race over the years in bachelor and master degree
 
 Commentary on comparison to industry, % change, and whether it is increasing
 
-Graph 10 compariosn of gender in industry to education
-Graph 11 comparison of race in industry to education
+Graph 9/10 compariosn of % change in gender in industry to education and comparison in composistion
+Graph 11/12 compariosn of % change race in industry to education and comparison in composistion
 
 Protential Visual for a final comparison of  if it continues growing at the average rate, where it will be in 5 years
 
 Final remarks on how to improve this/Call to action
+
+# Initial Sketches
+ ![IMG_8482](https://user-images.githubusercontent.com/56760044/68783000-4841d380-0608-11ea-8838-53cd0d766b80.jpeg)
+ 
 
 
 # The Data 
