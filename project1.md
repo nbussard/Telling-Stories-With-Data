@@ -46,7 +46,13 @@ Final remarks on how to improve this/Call to action
 # Initial Sketches
  ![IMG_8482](https://user-images.githubusercontent.com/56760044/68783000-4841d380-0608-11ea-8838-53cd0d766b80.jpeg)
  
+ ![IMG_8483](https://user-images.githubusercontent.com/56760044/68783385-e6ce3480-0608-11ea-8d02-296296aabc54.jpeg)
+ 
+ ![IMG_8484](https://user-images.githubusercontent.com/56760044/68783421-f8afd780-0608-11ea-8e36-0098b356c337.jpeg)
 
+![IMG_8485](https://user-images.githubusercontent.com/56760044/68783451-02d1d600-0609-11ea-8b09-e0f7868bff14.jpeg)
+
+![IMG_8486](https://user-images.githubusercontent.com/56760044/68783475-0ebd9800-0609-11ea-93a2-2729e575d562.jpeg)
 
 # The Data 
 
