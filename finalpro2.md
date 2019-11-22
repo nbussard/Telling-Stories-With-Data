@@ -4,7 +4,11 @@
 
 These photos are the visual path of my story. It outlines the introduction of the concept, the presentation of each section of data, the comparison of the data, and lastly, the conclusions and call to action. 
 
+![IMG_8527](https://user-images.githubusercontent.com/56760044/69433757-3b109d00-0d0a-11ea-861f-2a1dc1c5e3ad.jpeg)
 
+![IMG_8528](https://user-images.githubusercontent.com/56760044/69433792-4ebc0380-0d0a-11ea-806d-ba56f2747f66.jpeg)
+
+![IMG_8530](https://user-images.githubusercontent.com/56760044/69433843-6abfa500-0d0a-11ea-9178-f001824aebc6.jpeg)
 
 # Wire Frame
 
