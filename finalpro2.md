@@ -14,7 +14,27 @@ These photos are the visual path of my story. It outlines the introduction of th
 
 For my wireframe I developed draft versions of my visuals in Tableau. These drafts were presented in combination with the storyboard into to provide my reviewers with a holsitic picture of the story. 
 
+![Slide07](https://user-images.githubusercontent.com/56760044/69459472-d112ea80-0d3f-11ea-9cb3-c85cf3d68132.jpg)
 
+![Slide08](https://user-images.githubusercontent.com/56760044/69459501-dec87000-0d3f-11ea-8a93-040e46db87fe.jpg)
+
+![Slide05](https://user-images.githubusercontent.com/56760044/69459529-f56ec700-0d3f-11ea-8eaf-46339229efcf.jpg)
+
+![Slide06](https://user-images.githubusercontent.com/56760044/69459546-ff90c580-0d3f-11ea-97bf-5cc2c5b412fe.jpg)
+
+![Slide11](https://user-images.githubusercontent.com/56760044/69459573-0b7c8780-0d40-11ea-8e94-2c5fe37efa2e.jpg)
+
+![Slide12](https://user-images.githubusercontent.com/56760044/69459580-16371c80-0d40-11ea-9692-5e3f6c693078.jpg)
+
+![Slide09](https://user-images.githubusercontent.com/56760044/69459590-1e8f5780-0d40-11ea-86f0-b9e224cec7e2.jpg)
+
+![Slide03](https://user-images.githubusercontent.com/56760044/69459766-7b8b0d80-0d40-11ea-9e55-07b0309fe255.jpg)
+
+![Slide04](https://user-images.githubusercontent.com/56760044/69459784-8645a280-0d40-11ea-8caa-5844eafb7c77.jpg)
+
+![Slide01](https://user-images.githubusercontent.com/56760044/69459797-9198ce00-0d40-11ea-9322-134e9554eab5.jpg)
+
+![Slide02](https://user-images.githubusercontent.com/56760044/69459804-9a899f80-0d40-11ea-8696-ab84b5981dc5.jpg)
 
 # User Protocol
 
