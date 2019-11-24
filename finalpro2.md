@@ -74,7 +74,7 @@ Q10: If so, why? If not, what is the disconnect and how do you think it can be f
 
 # Interview Findings
 
-
+[mom.pdf](https://github.com/nbussard/Telling-Stories-With-Data/files/3883602/mom.pdf)
 
 # Changes Implemented 
 
