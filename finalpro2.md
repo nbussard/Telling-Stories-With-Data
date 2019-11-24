@@ -78,6 +78,10 @@ Q10: If so, why? If not, what is the disconnect and how do you think it can be f
 
 # Changes Implemented 
 
+First, I made sure to get all of my colors the same and fix any axis issues. 
+
+Second, I reevaluated my storyboard and made sure I knew what I would say in the final project.
+
 
 
 # Revised Visualizations and Storyboard
