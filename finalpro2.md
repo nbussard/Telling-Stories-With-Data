@@ -78,6 +78,8 @@ Q10: If so, why? If not, what is the disconnect and how do you think it can be f
 
 ![Q1](https://user-images.githubusercontent.com/56760044/69497363-0b000000-0eaa-11ea-8796-2b66f84d5f06.jpg) 
 
+![Q2](https://user-images.githubusercontent.com/56760044/69499302-8ec3e780-0ebe-11ea-90bb-f02130140f22.jpg)
+
 # Changes Implemented 
 
 1) I made sure to get all of my colors the same and fix any axis issues. 
@@ -88,6 +90,29 @@ Q10: If so, why? If not, what is the disconnect and how do you think it can be f
 
 4) Give white demographic a color and the others a gray scale to emphasis the disparity
 
+5) Make sure final conclusions are not over assuming
 
+6) Make sure to define arts
+
+7) Define degrees in initial introduction
+
+8)Make data labels consistent
+
+9) Make order of labels consistent
 
 # Revised Visualizations and Storyboard
+
+These are the revised visualitions based on the user reviews
+
+![Slide02](https://user-images.githubusercontent.com/56760044/69499538-17dc1e00-0ec1-11ea-9440-f62ab117405c.jpg)
+![Slide03](https://user-images.githubusercontent.com/56760044/69499550-34785600-0ec1-11ea-809d-c249e29fc4a5.jpg)
+![Slide04](https://user-images.githubusercontent.com/56760044/69499553-3e9a5480-0ec1-11ea-8632-d6cdefe56bea.jpg)
+![Slide05](https://user-images.githubusercontent.com/56760044/69499559-4528cc00-0ec1-11ea-8ff0-048ccea85b97.jpg)
+![Slide06](https://user-images.githubusercontent.com/56760044/69499563-4f4aca80-0ec1-11ea-83b5-305a61634a2f.jpg)
+![Slide07](https://user-images.githubusercontent.com/56760044/69499565-596cc900-0ec1-11ea-83ae-6f0096281aa0.jpg)
+![Slide08](https://user-images.githubusercontent.com/56760044/69499566-5f62aa00-0ec1-11ea-9dc1-47397bc83dec.jpg)
+![Slide09](https://user-images.githubusercontent.com/56760044/69499570-67bae500-0ec1-11ea-8c5a-e47bfa4ce654.jpg)
+![Slide10](https://user-images.githubusercontent.com/56760044/69499572-6e495c80-0ec1-11ea-9eef-01a9f9245f73.jpg)
+![Slide11](https://user-images.githubusercontent.com/56760044/69499574-75706a80-0ec1-11ea-9d64-fc097693b39b.jpg)
+![Slide12](https://user-images.githubusercontent.com/56760044/69499578-7b664b80-0ec1-11ea-96c3-c180995c29ed.jpg)
+![Slide13](https://user-images.githubusercontent.com/56760044/69499581-81f4c300-0ec1-11ea-97dd-6eaf024629d8.jpg)
