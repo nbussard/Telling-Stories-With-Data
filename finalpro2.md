@@ -76,6 +76,8 @@ Q10: If so, why? If not, what is the disconnect and how do you think it can be f
 
 ![mom](https://user-images.githubusercontent.com/56760044/69495248-e3516d80-0e92-11ea-930e-81f8ddf435c6.jpg)
 
+![Q1](https://user-images.githubusercontent.com/56760044/69497363-0b000000-0eaa-11ea-8796-2b66f84d5f06.jpg) 
+
 # Changes Implemented 
 
 First, I made sure to get all of my colors the same and fix any axis issues. 
