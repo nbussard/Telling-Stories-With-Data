@@ -15,3 +15,5 @@ I hope to learn how to effectively present data to various audiences
 [Final Project Part 1](project1.md)
  
 [Final Project Part 2](finalpro2.md)
+
+[Final Project Part 3](finalpro3.md) 
