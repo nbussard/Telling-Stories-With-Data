@@ -1,10 +1,8 @@
+# Final Project Part 3
+
 # The Idea
 
 # Part 1 of Project 
-
-# Final Project 
-
-# How Equitable Has Art Higher Education Become?
 
 # Outline
 
@@ -199,9 +197,8 @@ Education: an middle aged white indivdual who is the department head of a progra
 
 I wanted to make the project as linear as possible. I wanted to place less focus on the actual numbers and more on the visual disparity between the demographics. Using this persona ideas, it gave ma a language base to use and that is why I change from a forecast at the end to highlighting the system of arts education and why it is important to be aware of the cyclical impact it all has. 
 
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+My goal through this project was it hightlight that education does have an impact on industry and vice versa. It was not to say that education is not impact and that is should not be part of criteria for programs but that it should not be held in high importance. Most importantly, I want this to show that by putting a high focus on education it automatically excludes artists. This is also to bring awareness to the current sistuations, the improvement that have been made and still need to occur. I made sure to highlight the why and the limitations of this imformation. I wanted to keep the palate simple. The well known gender colors, similar colors for race, and easily understandable graphs. 
 
-
-
+The biggest learning process was how to portray the thoughts in my head and make sure it ius understandable by others. This meant being direct in my language and make sure my graphs were quickly showing the compostiton. This mean knowing exactly what I wanted a viewer to see when they immediatly looked at the graph.
 
 Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
