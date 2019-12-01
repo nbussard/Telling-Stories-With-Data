@@ -200,5 +200,8 @@ My goal through this project was it hightlight that education does have an impac
 The biggest learning process was how to portray the thoughts in my head and make sure it ius understandable by others. This meant being direct in my language and make sure my graphs were quickly showing the compostiton. This mean knowing exactly what I wanted a viewer to see when they immediatly looked at the graph.
 
 # Final Story
+
+https://carnegiemellon.shorthandstories.com/nbussardtwsd/index.html 
+
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/nbussardtwsd/"><h1>Are We Making the Arts More Equitable?</h1><p>Examing the change in Arts Higher Education and the Arts Industry's demographics</p></div>
