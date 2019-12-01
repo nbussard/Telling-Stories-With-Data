@@ -1,7 +1,5 @@
 # Final Project Part 3
 
-# The Idea
-
 # Part 1 of Project 
 
 # Outline
@@ -201,4 +199,5 @@ My goal through this project was it hightlight that education does have an impac
 
 The biggest learning process was how to portray the thoughts in my head and make sure it ius understandable by others. This meant being direct in my language and make sure my graphs were quickly showing the compostiton. This mean knowing exactly what I wanted a viewer to see when they immediatly looked at the graph.
 
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+# Final Story
+https://carnegiemellon.shorthandstories.com/nbussardtwsd/index.html 
