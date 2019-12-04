@@ -12,4 +12,4 @@ I hope to learn how to effectively present data to various audiences.
 
 [Data Visualization 2](/Dataviz2.md)
 
-[Final Project](finalpro3.md) 
+[Are We Making the Art More Equitable?](finalpro3.md) 
